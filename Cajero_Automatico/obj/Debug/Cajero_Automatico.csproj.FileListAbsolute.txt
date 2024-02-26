@@ -1,0 +1,7 @@
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe.config
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.exe
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\bin\Debug\Cajero_Automatico.pdb
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.csproj.AssemblyReference.cache
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.csproj.CoreCompileInputs.cache
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.exe
+C:\CURSOS\C#\Proyectos\Cajero_Automatico\Cajero_Automatico\obj\Debug\Cajero_Automatico.pdb
